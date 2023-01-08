@@ -25,8 +25,7 @@ dependencies = [
 
 [project.urls]
 repository = "https://github.com/sawyersteven/CherrypySysTray"
-documentation = "https://github.com/sawyersteven/CherrypyScheduler/wiki"
 
 [tool.setuptools.packages.find]
 where = [""]
-include = ["cherrypyscheduler"]
+include = ["cherrypysystray"]
